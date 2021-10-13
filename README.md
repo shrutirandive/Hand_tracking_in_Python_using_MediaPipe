@@ -6,8 +6,8 @@
 
 **With help of MediaPipe we will track the hand movements using simple Python code**
 <p float="left">
-<img src="https://user-images.githubusercontent.com/54211989/133726375-d3c74b09-9a9c-462b-8fd2-d3f794b780c8.png" width="470" height="420"/>
-<img src="https://user-images.githubusercontent.com/54211989/133727665-ead65017-9ae5-468d-8cf5-42cae03e9f28.png" width="470" height="420"/>
+<img src="https://user-images.githubusercontent.com/54211989/133726375-d3c74b09-9a9c-462b-8fd2-d3f794b780c8.png" width="450" height="420"/>
+<img src="https://user-images.githubusercontent.com/54211989/133727665-ead65017-9ae5-468d-8cf5-42cae03e9f28.png" width="450" height="420"/>
 </p>
 
 For more info refer this: https://google.github.io/mediapipe/solutions/hands
