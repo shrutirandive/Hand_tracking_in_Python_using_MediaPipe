@@ -1,4 +1,4 @@
-# Hand_tracking
+# Real time hand tracking
 
 **MediaPipe** offers cross-platform, customizable ML solutions for live and streaming media.
 
