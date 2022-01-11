@@ -1,4 +1,4 @@
-# Hand_tracking_in_Python_using_MediaPipe
+# Hand_tracking
 
 **MediaPipe** offers cross-platform, customizable ML solutions for live and streaming media.
 
